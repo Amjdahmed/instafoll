@@ -71,8 +71,8 @@ jalan(b4)
 b5=input('choise number[1] from [4]:')
 
 if b5 == '1':
-
-	os.system('clear')	jalan(v)
+	jalan(v)
+	os.system('clear') 
 
 	print('')
 
