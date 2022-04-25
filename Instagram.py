@@ -71,9 +71,10 @@ jalan(b4)
 b5=input('choise number[1] from [4]:')
 
 if b5 == '1':
-	jalan(v)
 	os.system('clear') 
-
+	
+	jalan(v)
+	
 	print('')
 
 	r=('Please write your name and password')
